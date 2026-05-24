@@ -1,0 +1,2 @@
+101|Les Miserables|Hugo|5|3
+102|L'Etranger|Camus|4|4
